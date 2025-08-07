@@ -1,6 +1,7 @@
 "use client";
 import Image from 'next/image';
-import box from '@/public/images/box.png';
+
+
 
 export default function Feeds() {
   return (

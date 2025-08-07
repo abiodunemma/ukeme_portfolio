@@ -12,7 +12,7 @@ export default function About() {
         
         {/* LEFT: Text Box */}
         <div className="md:w-1/2 text-[#21243D]">
-          <h2 className="text-3xl font-bold mb-4">Hi, I'm Ukeme Michael</h2>
+          <h2 className="text-3xl font-bold mb-4">Hi, I&rsquo;m Ukeme Michael</h2>
           <p className="text-md leading-relaxed">
           I’m Ukeme Michael, a content strategist, Market Researcher, Business developer /Strategist, Brand Growth specialist, and media professional.
            I am passionate about building brands that connect and communicate with clarity. 
